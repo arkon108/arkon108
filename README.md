@@ -12,11 +12,11 @@ Most of my work has been backend and full-stack engineering on SaaS platforms: d
 
 Most of my work lives in private client repositories. What's public here is mostly older learning projects.
 
-**Languages:** Python • TypeScript • JavaScript • PHP • SQL • Clojure • C
-**Backend:** FastAPI • Prefect • Tornado • Node.js (Koa) • Laravel • REST and SOAP APIs
-**Frontend:** React • Redux • Vue 3
-**Data:** PostgreSQL • MySQL • Redis
-**Infrastructure:** AWS (ECS, CDK, S3, RDS) • GCP Pub/Sub • Docker • nginx • GitHub Actions
-**AI tooling:** Claude Code • MCP • GitHub Copilot • Cursor
+- **Languages:** Python • TypeScript • JavaScript • PHP • SQL • Clojure • C
+- **Backend:** FastAPI • Prefect • Tornado • Node.js (Koa) • Laravel • REST and SOAP APIs
+- **Frontend:** React • Redux • Vue 3
+- **Data:** PostgreSQL • MySQL • Redis
+- **Infrastructure:** AWS (ECS, CDK, S3, RDS) • GCP Pub/Sub • Docker • nginx • GitHub Actions
+- **AI tooling:** Claude Code • MCP • GitHub Copilot • Cursor
 
 [LinkedIn](https://www.linkedin.com/in/mataic/) • [sasa@mataic.com](mailto:sasa@mataic.com)
