@@ -1,16 +1,17 @@
-## Hi there 👋
+### Holla, I'm Saša 👋
 
-<!--
-**arkon108/arkon108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior software engineer and tech lead from Croatia (CET). I've spent 20 years building and running production systems, mostly as an independent contractor via my company [Hyperspace d.o.o](https://hyperspace.hr)
 
-Here are some ideas to get you started:
+Most of my work has been backend and full-stack engineering on SaaS platforms: designing systems, integrating third-party APIs, modernizing legacy codebases and keeping things running in production. I've also led teams, including a stint as interim engineering manager, and lately I've been figuring out how to genuinely improve everyday engineering work by integrating AI tools and building agentic workflows. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recently**
+
+- **Smartly.io:** senior Python and MLOps engineering on an AI/ML budget optimizer; before that, the Spotify Ads platform integration in TypeScript.
+- **Sched.com:** tech lead and architect on a long-lived SaaS PHP event platform. Worked on the new product line, migrated assets to S3, architected a feature flagging system for the legacy codebase and created testing infrastructure. Also introduced AI-assisted development practices to the engineering team.
+- **US-based eyewear business:** built the operations platform in 2018 and have been improving it since. It uses Python and React, with Shopify, USPS and Gmail integrations.
+
+Most of my work lives in private client repositories. What's public here is mostly older learning projects.
+
+**Stack:** Python • TypeScript • PHP • JavaScript • Clojure • SQL • AWS • Docker
+
+[LinkedIn](https://www.linkedin.com/in/mataic/) • [sasa@mataic.com](mailto:sasa@mataic.com)
